@@ -1,0 +1,501 @@
+city,date,Index Value,Air Quality,Prominent Pollutant
+Chennai,2019-07-15,78,Satisfactory,PM2.5
+Pune,2019-08-20,74,Satisfactory,SO2
+Delhi,2022-08-07,118,Moderate,"PM10, PM2.5"
+Patna,2022-12-26,352,Very Poor,"PM10, PM2.5"
+Ahmedabad,2018-10-16,290,Poor,PM2.5
+Delhi,2023-06-17,119,Moderate,"O3, PM10"
+Bengaluru,2019-02-18,104,Moderate,"OZONE, PM10, PM2.5"
+Visakhapatnam,2021-09-26,101,Moderate,PM10
+Kolkata,2017-09-12,64,Satisfactory,PM10
+Mumbai,2023-11-14,168,Moderate,"O3, PM10, PM2.5"
+Lucknow,2017-09-25,60,Satisfactory,PM2.5
+Hyderabad,2017-02-04,169,Moderate,"PM10, PM2.5"
+Kanpur,2023-01-03,181,Moderate,PM2.5
+Ahmedabad,2018-02-04,227,Poor,PM2.5
+Mumbai,2023-05-11,121,Moderate,PM10
+Bengaluru,2018-11-16,62,Satisfactory,"CO, PM10"
+Agra,2020-05-03,61,Satisfactory,PM2.5
+Patna,2018-06-21,163,Moderate,OZONE
+Pune,2022-10-25,122,Moderate,PM2.5
+Chennai,2020-05-23,64,Satisfactory,"O3, PM2.5"
+Mumbai,2022-08-03,89,Satisfactory,"CO, PM10, PM2.5"
+Bengaluru,2018-01-16,88,Satisfactory,"O3, PM2.5"
+Lucknow,2019-08-19,57,Satisfactory,CO
+Visakhapatnam,2021-04-18,42,Good,NO2
+Pune,2016-09-14,125,Moderate,NO2
+Hyderabad,2017-09-02,83,Satisfactory,"PM10, PM2.5"
+Kanpur,2021-01-01,364,Very Poor,PM2.5
+Bengaluru,2019-08-29,44,Good,"CO, PM10, PM2.5"
+Hyderabad,2022-02-25,86,Satisfactory,"PM10, PM2.5"
+Nashik,2020-06-12,42,Good,O3
+Howrah,2016-07-05,65,Satisfactory,PM10
+Delhi,2020-03-02,205,Poor,"PM10, PM2.5"
+Nashik,2022-09-06,45,Good,O3
+Pune,2019-07-31,74,Satisfactory,SO2
+Lucknow,2018-04-07,138,Moderate,PM2.5
+Guwahati,2022-12-03,160,Moderate,PM2.5
+Delhi,2017-09-23,72,Satisfactory,"CO, PM2.5"
+Delhi,2016-11-05,485,Severe,"PM10, PM2.5"
+Howrah,2022-04-11,48,Good,"CO, PM10"
+Chennai,2018-04-09,73,Satisfactory,"OZONE, PM2.5"
+Delhi,2016-09-03,232,Poor,"PM10, PM2.5"
+Lucknow,2017-09-18,96,Satisfactory,PM2.5
+Hyderabad,2019-08-31,30,Good,"NO2, PM10, PM2.5"
+Chennai,2016-08-18,90,Satisfactory,PM2.5
+Chennai,2021-11-15,52,Satisfactory,"CO, SO2"
+Hyderabad,2015-05-06,82,Satisfactory,O3
+Pune,2023-06-07,102,Moderate,"NO2, PM2.5"
+Kolkata,2021-02-16,209,Poor,PM2.5
+Agra,2017-05-22,130,Moderate,PM2.5
+Delhi,2020-02-22,100,Satisfactory,"NO2, O3, PM10"
+Kanpur,2020-01-14,353,Very Poor,PM2.5
+Visakhapatnam,2020-11-24,114,Moderate,PM2.5
+Hyderabad,2019-10-27,54,Satisfactory,"PM10, PM2.5"
+Hyderabad,2017-08-24,72,Satisfactory,"O3, PM2.5"
+Howrah,2017-10-18,121,Moderate,PM10
+Lucknow,2019-11-07,366,Very Poor,PM2.5
+Lucknow,2015-05-21,94,Satisfactory,"CO, PM2.5"
+Mumbai,2023-12-14,134,Moderate,"O3, PM2.5"
+Mumbai,2020-08-10,42,Good,"CO, PM10, SO2"
+Lucknow,2019-05-30,222,Poor,PM2.5
+Patna,2018-09-02,93,Satisfactory,PM2.5
+Pune,2019-01-22,100,Satisfactory,PM10
+Howrah,2019-12-12,170,Moderate,PM2.5
+Chennai,2021-10-06,45,Good,"CO, O3, PM10"
+Kolkata,2017-10-09,27,Good,NO2
+Howrah,2022-06-04,83,Satisfactory,PM10
+Howrah,2022-01-10,245,Poor,PM2.5
+Pune,2019-06-17,60,Satisfactory,SO2
+Bengaluru,2022-05-05,68,Satisfactory,"NO2, PM10"
+Lucknow,2018-03-06,184,Moderate,PM2.5
+Ahmedabad,2020-03-16,94,Satisfactory,PM10
+Hyderabad,2023-01-15,103,Moderate,"PM10, PM2.5"
+Howrah,2021-09-26,63,Satisfactory,"O3, PM10, PM2.5"
+Ahmedabad,2020-10-22,159,Moderate,O3
+Howrah,2022-10-12,42,Good,"CO, PM10"
+Ahmedabad,2019-04-18,188,Moderate,PM2.5
+Patna,2016-03-09,186,Moderate,PM2.5
+Pune,2015-11-21,152,Moderate,PM2.5
+Mumbai,2021-10-23,111,Moderate,"PM10, PM2.5"
+Hyderabad,2017-11-19,80,Satisfactory,"PM10, PM2.5"
+Ahmedabad,2021-05-31,96,Satisfactory,O3
+Nashik,2019-08-17,31,Good,OZONE
+Nashik,2016-05-23,62,Satisfactory,PM10
+Pune,2018-02-03,89,Satisfactory,SO2
+Lucknow,2017-10-25,363,Very Poor,PM2.5
+Guwahati,2021-12-23,219,Poor,PM2.5
+Chennai,2018-12-01,98,Satisfactory,PM2.5
+Bengaluru,2023-08-09,60,Satisfactory,PM10
+Visakhapatnam,2017-08-14,107,Moderate,PM10
+Bengaluru,2019-07-14,58,Satisfactory,"CO, PM10, PM2.5"
+Guwahati,2021-12-19,218,Poor,PM2.5
+Pune,2015-10-11,92,Satisfactory,PM10
+Kanpur,2023-11-10,232,Poor,PM2.5
+Howrah,2022-02-08,204,Poor,PM2.5
+Patna,2022-10-04,40,Good,"NO2, O3, PM10"
+Visakhapatnam,2021-11-13,33,Good,CO
+Chennai,2023-06-24,62,Satisfactory,NO2
+Mumbai,2016-12-01,193,Moderate,PM10
+Guwahati,2022-02-16,202,Poor,"PM10, PM2.5"
+Lucknow,2021-05-12,116,Moderate,"PM10, PM2.5"
+Mumbai,2021-10-26,96,Satisfactory,"PM10, PM2.5"
+Lucknow,2018-12-04,357,Very Poor,PM2.5
+Pune,2019-11-13,135,Moderate,PM2.5
+Nashik,2022-08-13,45,Good,O3
+Delhi,2020-10-13,300,Poor,"PM10, PM2.5"
+Patna,2021-09-23,49,Good,"O3, PM10"
+Pune,2016-11-12,261,Poor,PM2.5
+Mumbai,2022-09-03,79,Satisfactory,"CO, PM10, PM2.5"
+Kanpur,2023-08-04,103,Moderate,PM2.5
+Ahmedabad,2018-10-31,169,Moderate,PM2.5
+Kolkata,2020-05-21,33,Good,"CO, O3, PM10"
+Nashik,2023-02-19,107,Moderate,PM2.5
+Hyderabad,2022-10-08,53,Satisfactory,"CO, PM10, PM2.5"
+Kanpur,2023-11-30,122,Moderate,"PM10, PM2.5"
+Bengaluru,2021-09-05,46,Good,"CO, O3, PM10"
+Guwahati,2023-07-29,55,Satisfactory,"CO, SO2"
+Pune,2016-05-04,107,Moderate,CO
+Kanpur,2022-05-28,98,Satisfactory,"PM10, PM2.5"
+Visakhapatnam,2020-07-20,84,Satisfactory,PM10
+Hyderabad,2019-08-28,58,Satisfactory,"PM10, PM2.5"
+Kanpur,2023-12-29,181,Moderate,"PM10, PM2.5"
+Hyderabad,2015-12-20,66,Satisfactory,"O3, PM10"
+Nashik,2016-09-30,55,Satisfactory,O3
+Kolkata,2021-04-22,76,Satisfactory,"CO, O3, PM10"
+Lucknow,2020-08-15,74,Satisfactory,"O3, PM10, PM2.5"
+Agra,2018-02-28,196,Moderate,PM2.5
+Chennai,2020-07-12,65,Satisfactory,"CO, O3"
+Howrah,2019-04-12,74,Satisfactory,PM10
+Pune,2020-01-27,155,Moderate,PM2.5
+Hyderabad,2019-04-06,85,Satisfactory,"OZONE, PM10, PM2.5"
+Mumbai,2022-04-28,114,Moderate,"PM10, PM2.5"
+Kolkata,2022-10-10,42,Good,"CO, NO2, O3"
+Patna,2020-01-28,302,Very Poor,PM2.5
+Ahmedabad,2022-05-02,125,Moderate,"PM10, PM2.5"
+Chennai,2021-02-01,64,Satisfactory,"CO, PM10, PM2.5"
+Bengaluru,2017-03-23,92,Satisfactory,"O3, PM2.5"
+Pune,2021-07-16,67,Satisfactory,"CO, PM2.5"
+Lucknow,2019-04-17,100,Satisfactory,PM2.5
+Chennai,2023-10-14,69,Satisfactory,NO2
+Patna,2020-05-27,104,Moderate,PM10
+Chennai,2023-10-30,65,Satisfactory,CO
+Kanpur,2022-02-07,166,Moderate,"PM10, PM2.5"
+Nashik,2018-09-26,74,Satisfactory,OZONE
+Hyderabad,2020-08-01,60,Satisfactory,"NO2, PM10, PM2.5"
+Howrah,2022-11-21,191,Moderate,"O3, PM2.5"
+Bengaluru,2023-08-19,49,Good,"CO, PM10"
+Hyderabad,2021-08-31,39,Good,"NO2, PM10, PM2.5"
+Lucknow,2023-08-13,91,Satisfactory,PM10
+Nashik,2018-11-24,180,Moderate,OZONE
+Bengaluru,2020-01-04,85,Satisfactory,"O3, PM10, PM2.5"
+Nashik,2020-09-26,24,Good,PM10
+Pune,2018-10-01,87,Satisfactory,PM2.5
+Bengaluru,2016-07-17,34,Good,"NO2, PM10"
+Delhi,2019-05-08,357,Very Poor,PM10
+Bengaluru,2021-08-29,38,Good,"CO, PM10, PM2.5"
+Delhi,2017-10-18,302,Very Poor,"PM10, PM2.5"
+Nashik,2022-02-05,119,Moderate,PM10
+Delhi,2017-08-30,76,Satisfactory,"CO, PM2.5"
+Pune,2016-06-29,102,Moderate,CO
+Nashik,2021-03-13,91,Satisfactory,PM2.5
+Chennai,2023-07-12,76,Satisfactory,"CO, PM10"
+Chennai,2016-10-15,124,Moderate,"O3, PM2.5"
+Mumbai,2017-11-28,172,Moderate,PM10
+Chennai,2023-12-11,82,Satisfactory,"O3, PM10"
+Agra,2018-08-21,45,Good,NO2
+Lucknow,2019-01-03,366,Very Poor,PM2.5
+Kolkata,2023-05-09,90,Satisfactory,"O3, PM2.5"
+Agra,2018-12-09,419,Severe,PM2.5
+Kolkata,2019-10-29,219,Poor,PM2.5
+Howrah,2022-12-28,247,Poor,PM2.5
+Bengaluru,2022-07-07,53,Satisfactory,"CO, PM10"
+Kolkata,2020-10-16,62,Satisfactory,"O3, PM10"
+Patna,2023-06-25,135,Moderate,PM2.5
+Chennai,2017-10-06,66,Satisfactory,PM2.5
+Visakhapatnam,2017-04-11,75,Satisfactory,PM10
+Patna,2019-08-07,93,Satisfactory,CO
+Nashik,2018-09-16,44,Good,OZONE
+Lucknow,2023-06-10,134,Moderate,PM2.5
+Delhi,2023-02-10,187,Moderate,PM2.5
+Agra,2023-12-25,122,Moderate,"PM10, PM2.5"
+Guwahati,2023-05-04,84,Satisfactory,"PM10, PM2.5"
+Delhi,2022-02-19,180,Moderate,"PM10, PM2.5"
+Delhi,2022-04-02,226,Poor,"NO2, PM10, PM2.5"
+Visakhapatnam,2022-06-24,102,Moderate,PM10
+Howrah,2022-05-13,73,Satisfactory,PM10
+Patna,2019-11-25,404,Severe,PM2.5
+Howrah,2022-10-24,69,Satisfactory,"PM10, PM2.5"
+Agra,2018-03-11,194,Moderate,PM2.5
+Bengaluru,2020-02-06,90,Satisfactory,"O3, PM10, PM2.5"
+Mumbai,2023-11-27,59,Satisfactory,"CO, NO2, PM2.5"
+Hyderabad,2021-12-26,174,Moderate,"PM10, PM2.5"
+Hyderabad,2020-04-17,74,Satisfactory,"PM10, PM2.5"
+Lucknow,2015-08-26,96,Satisfactory,"CO, PM2.5"
+Hyderabad,2018-05-21,134,Moderate,"OZONE, PM10, PM2.5"
+Bengaluru,2019-02-09,165,Moderate,"OZONE, PM2.5"
+Kanpur,2017-12-17,279,Poor,PM2.5
+Pune,2021-01-27,134,Moderate,"NO2, PM10, PM2.5"
+Chennai,2020-06-24,110,Moderate,"CO, O3"
+Ahmedabad,2020-08-21,67,Satisfactory,PM10
+Lucknow,2021-04-30,188,Moderate,"O3, PM10, PM2.5"
+Visakhapatnam,2023-10-06,203,Poor,PM10
+Delhi,2020-01-31,190,Moderate,PM2.5
+Hyderabad,2018-08-18,37,Good,"PM10, PM2.5"
+Mumbai,2019-12-24,245,Poor,PM2.5
+Patna,2021-09-05,102,Moderate,"PM10, PM2.5"
+Agra,2017-07-17,58,Satisfactory,PM2.5
+Chennai,2020-08-20,56,Satisfactory,"O3, PM2.5"
+Agra,2023-08-23,39,Good,"NO2, PM10"
+Nashik,2020-12-31,124,Moderate,PM2.5
+Kolkata,2023-02-18,101,Moderate,"PM10, PM2.5"
+Ahmedabad,2023-04-15,125,Moderate,"PM10, PM2.5"
+Visakhapatnam,2019-01-04,290,Poor,PM2.5
+Mumbai,2023-04-17,95,Satisfactory,"PM10, PM2.5"
+Hyderabad,2017-09-09,70,Satisfactory,"PM10, PM2.5"
+Chennai,2023-08-10,82,Satisfactory,CO
+Mumbai,2017-07-18,56,Satisfactory,CO
+Kanpur,2019-09-25,50,Good,PM2.5
+Agra,2021-01-19,351,Very Poor,PM2.5
+Nashik,2021-11-25,67,Satisfactory,PM2.5
+Pune,2021-07-27,60,Satisfactory,"CO, PM10, PM2.5"
+Nashik,2022-06-03,66,Satisfactory,PM10
+Ahmedabad,2018-07-26,85,Satisfactory,PM2.5
+Visakhapatnam,2019-06-26,71,Satisfactory,PM10
+Lucknow,2016-09-22,43,Good,"O3, PM2.5"
+Howrah,2021-05-23,49,Good,PM10
+Delhi,2016-09-22,127,Moderate,"CO, PM10"
+Nashik,2016-11-17,271,Poor,PM2.5
+Pune,2020-01-13,188,Moderate,PM2.5
+Kanpur,2021-04-23,72,Satisfactory,"O3, PM2.5"
+Kanpur,2022-11-05,236,Poor,PM2.5
+Chennai,2019-07-01,50,Good,"OZONE, PM2.5"
+Delhi,2022-02-27,92,Satisfactory,"PM10, PM2.5"
+Chennai,2023-07-06,66,Satisfactory,"NO2, PM10"
+Visakhapatnam,2021-08-16,78,Satisfactory,PM10
+Kanpur,2022-02-02,189,Moderate,PM2.5
+Mumbai,2023-11-21,132,Moderate,"O3, PM2.5"
+Agra,2019-06-27,77,Satisfactory,PM2.5
+Kanpur,2021-05-16,92,Satisfactory,PM2.5
+Bengaluru,2023-07-15,50,Good,PM10
+Bengaluru,2016-01-06,121,Moderate,"NO2, PM2.5"
+Kanpur,2021-02-08,272,Poor,PM2.5
+Chennai,2016-09-28,97,Satisfactory,PM2.5
+Hyderabad,2016-12-30,188,Moderate,"O3, PM2.5"
+Patna,2020-09-28,85,Satisfactory,"PM10, PM2.5"
+Guwahati,2020-02-29,160,Moderate,PM2.5
+Kanpur,2018-10-07,222,Poor,PM2.5
+Visakhapatnam,2020-03-19,102,Moderate,PM10
+Visakhapatnam,2022-04-30,119,Moderate,PM10
+Hyderabad,2023-08-27,67,Satisfactory,PM10
+Bengaluru,2020-03-13,81,Satisfactory,"O3, PM10, PM2.5"
+Kanpur,2015-09-22,93,Satisfactory,PM2.5
+Howrah,2017-11-05,129,Moderate,PM10
+Kanpur,2022-09-27,45,Good,"PM10, PM2.5"
+Agra,2019-08-13,69,Satisfactory,PM2.5
+Kolkata,2022-12-23,274,Poor,PM2.5
+Nashik,2021-01-23,142,Moderate,PM2.5
+Mumbai,2021-01-25,207,Poor,"PM10, PM2.5"
+Nashik,2022-01-27,82,Satisfactory,PM10
+Hyderabad,2016-04-16,93,Satisfactory,"PM10, PM2.5"
+Patna,2016-01-04,424,Severe,PM2.5
+Guwahati,2019-04-07,121,Moderate,PM2.5
+Kolkata,2021-03-12,79,Satisfactory,"PM10, PM2.5"
+Nashik,2016-05-27,55,Satisfactory,PM10
+Lucknow,2023-11-16,191,Moderate,PM2.5
+Pune,2022-03-05,127,Moderate,"PM10, PM2.5"
+Chennai,2018-11-20,79,Satisfactory,"CO, PM2.5"
+Bengaluru,2021-11-12,64,Satisfactory,"CO, NO2, PM2.5"
+Patna,2018-12-02,405,Severe,PM2.5
+Visakhapatnam,2023-01-08,195,Moderate,PM10
+Chennai,2021-04-18,43,Good,"CO, O3, PM10"
+Howrah,2018-09-17,110,Moderate,PM10
+Ahmedabad,2018-12-13,145,Moderate,PM2.5
+Hyderabad,2016-11-09,125,Moderate,PM2.5
+Nashik,2018-03-07,116,Moderate,PM2.5
+Mumbai,2018-09-10,68,Satisfactory,CO
+Bengaluru,2022-02-21,114,Moderate,"PM10, PM2.5"
+Kanpur,2020-11-16,177,Moderate,PM2.5
+Delhi,2017-05-24,223,Poor,"PM10, PM2.5"
+Pune,2016-10-15,148,Moderate,PM2.5
+Guwahati,2022-09-30,68,Satisfactory,PM10
+Bengaluru,2015-07-30,49,Good,CO
+Kanpur,2020-04-12,105,Moderate,PM2.5
+Lucknow,2022-12-29,262,Poor,PM2.5
+Howrah,2020-12-18,231,Poor,"PM10, PM2.5"
+Visakhapatnam,2021-08-08,45,Good,NO2
+Hyderabad,2021-06-14,32,Good,"NO2, PM2.5, SO2"
+Chennai,2018-02-20,116,Moderate,PM2.5
+Howrah,2022-03-02,187,Moderate,"PM10, PM2.5"
+Lucknow,2019-08-12,80,Satisfactory,"CO, PM2.5"
+Hyderabad,2022-04-29,93,Satisfactory,"CO, PM10, PM2.5"
+Bengaluru,2020-07-28,40,Good,"O3, PM10, PM2.5"
+Agra,2020-08-11,57,Satisfactory,CO
+Delhi,2021-07-21,74,Satisfactory,"NO2, PM10, PM2.5"
+Pune,2021-02-26,93,Satisfactory,"PM10, PM2.5"
+Agra,2018-04-27,159,Moderate,PM2.5
+Hyderabad,2019-05-24,82,Satisfactory,"OZONE, PM10"
+Visakhapatnam,2023-04-13,146,Moderate,PM10
+Nashik,2020-02-29,112,Moderate,PM2.5
+Howrah,2022-04-15,80,Satisfactory,PM10
+Bengaluru,2023-11-20,59,Satisfactory,"PM10, PM2.5"
+Delhi,2023-11-30,398,Very Poor,PM2.5
+Nashik,2021-10-03,48,Good,PM10
+Visakhapatnam,2020-11-22,114,Moderate,PM10
+Guwahati,2022-10-24,47,Good,"PM10, PM2.5"
+Pune,2020-08-10,43,Good,CO
+Agra,2020-03-12,81,Satisfactory,PM2.5
+Chennai,2021-03-19,82,Satisfactory,"PM10, PM2.5"
+Guwahati,2019-03-21,148,Moderate,PM2.5
+Howrah,2022-07-03,41,Good,"CO, PM10, PM2.5"
+Kanpur,2021-02-18,195,Moderate,PM2.5
+Mumbai,2021-04-05,90,Satisfactory,"O3, PM10, PM2.5"
+Hyderabad,2019-06-15,58,Satisfactory,"PM10, PM2.5"
+Nashik,2021-12-16,106,Moderate,PM2.5
+Patna,2023-02-23,221,Poor,PM2.5
+Kanpur,2021-12-11,186,Moderate,PM2.5
+Hyderabad,2016-01-09,168,Moderate,PM2.5
+Guwahati,2019-06-20,76,Satisfactory,PM2.5
+Mumbai,2017-05-13,91,Satisfactory,PM10
+Kolkata,2021-11-30,168,Moderate,"PM10, PM2.5"
+Delhi,2018-03-16,244,Poor,"OZONE, PM10, PM2.5"
+Howrah,2022-04-02,76,Satisfactory,PM10
+Ahmedabad,2022-02-24,188,Moderate,"PM10, PM2.5"
+Ahmedabad,2018-01-11,172,Moderate,PM2.5
+Guwahati,2023-05-31,110,Moderate,PM10
+Nashik,2021-03-18,123,Moderate,PM2.5
+Agra,2016-03-17,174,Moderate,PM2.5
+Lucknow,2023-02-02,130,Moderate,PM2.5
+Delhi,2018-02-13,165,Moderate,"OZONE, PM2.5"
+Bengaluru,2015-09-01,68,Satisfactory,PM2.5
+Lucknow,2023-12-29,182,Moderate,PM2.5
+Nashik,2018-04-27,255,Poor,OZONE
+Lucknow,2022-01-14,167,Moderate,"PM10, PM2.5"
+Hyderabad,2023-07-26,51,Satisfactory,"O3, PM10"
+Guwahati,2021-04-13,164,Moderate,PM2.5
+Nashik,2017-08-25,36,Good,PM2.5
+Nashik,2022-05-16,68,Satisfactory,PM10
+Chennai,2019-04-04,62,Satisfactory,"CO, PM2.5"
+Patna,2016-07-10,62,Satisfactory,PM2.5
+Mumbai,2020-04-25,48,Good,"PM10, SO2"
+Chennai,2017-03-26,114,Moderate,"O3, PM2.5"
+Patna,2018-09-08,93,Satisfactory,PM2.5
+Mumbai,2023-03-10,145,Moderate,"NO2, PM10"
+Hyderabad,2019-02-02,119,Moderate,"PM10, PM2.5"
+Delhi,2023-10-05,177,Moderate,"PM10, PM2.5"
+Guwahati,2023-02-15,222,Poor,PM2.5
+Pune,2021-09-19,71,Satisfactory,"CO, NO2, PM2.5"
+Agra,2022-04-24,148,Moderate,"PM10, PM2.5"
+Hyderabad,2015-10-17,192,Moderate,"PM10, PM2.5"
+Kolkata,2023-12-24,172,Moderate,PM2.5
+Delhi,2016-08-17,171,Moderate,"PM10, PM2.5"
+Hyderabad,2020-12-13,148,Moderate,PM2.5
+Visakhapatnam,2018-01-30,222,Poor,PM2.5
+Howrah,2022-04-14,110,Moderate,"CO, O3, PM10"
+Kolkata,2022-10-13,47,Good,"NO2, O3, PM10"
+Mumbai,2018-07-05,60,Satisfactory,CO
+Lucknow,2015-08-17,62,Satisfactory,"CO, PM2.5"
+Patna,2016-01-15,443,Severe,PM2.5
+Delhi,2016-05-04,300,Poor,"PM10, PM2.5"
+Hyderabad,2020-04-02,98,Satisfactory,PM2.5
+Lucknow,2021-05-30,60,Satisfactory,"CO, O3"
+Bengaluru,2023-12-20,121,Moderate,"PM10, PM2.5"
+Kolkata,2020-08-11,48,Good,O3
+Bengaluru,2022-07-29,84,Satisfactory,"CO, PM10, PM2.5"
+Delhi,2018-09-10,84,Satisfactory,"CO, OZONE, PM2.5"
+Chennai,2017-12-26,132,Moderate,PM2.5
+Kanpur,2019-05-28,141,Moderate,OZONE
+Kanpur,2021-01-24,319,Very Poor,PM2.5
+Visakhapatnam,2020-03-13,55,Satisfactory,PM10
+Howrah,2023-12-24,165,Moderate,PM2.5
+Kolkata,2017-02-03,183,Moderate,"NO2, PM10"
+Bengaluru,2015-08-02,36,Good,PM2.5
+Guwahati,2022-12-16,240,Poor,PM2.5
+Visakhapatnam,2020-11-07,141,Moderate,PM2.5
+Nashik,2023-10-21,116,Moderate,"PM10, PM2.5"
+Agra,2016-01-15,389,Very Poor,PM2.5
+Pune,2021-10-12,52,Satisfactory,"CO, PM2.5"
+Nashik,2019-01-04,241,Poor,OZONE
+Kolkata,2017-02-10,194,Moderate,PM10
+Patna,2023-08-20,83,Satisfactory,"NO2, PM10"
+Agra,2019-09-12,57,Satisfactory,PM2.5
+Mumbai,2020-05-07,55,Satisfactory,"O3, PM10"
+Kanpur,2022-02-01,183,Moderate,PM2.5
+Mumbai,2018-12-04,164,Moderate,PM10
+Kolkata,2021-07-25,56,Satisfactory,"O3, PM10"
+Kanpur,2017-07-23,205,Poor,PM2.5
+Hyderabad,2016-08-10,16,Good,PM2.5
+Mumbai,2019-04-16,95,Satisfactory,CO
+Bengaluru,2021-02-10,86,Satisfactory,"NO2, PM10, PM2.5"
+Chennai,2022-10-21,65,Satisfactory,"CO, PM2.5, SO2"
+Nashik,2017-08-01,46,Good,CO
+Patna,2021-10-01,77,Satisfactory,"CO, O3, PM10"
+Bengaluru,2018-04-15,97,Satisfactory,"PM10, PM2.5"
+Hyderabad,2019-03-11,87,Satisfactory,"PM10, PM2.5"
+Hyderabad,2022-07-25,43,Good,"NO2, PM10, PM2.5"
+Lucknow,2023-01-12,215,Poor,PM2.5
+Delhi,2019-05-10,277,Poor,"PM10, PM2.5"
+Guwahati,2023-12-27,197,Moderate,PM2.5
+Nashik,2017-02-28,194,Moderate,O3
+Bengaluru,2020-04-22,55,Satisfactory,"O3, PM10, PM2.5"
+Kanpur,2021-03-08,176,Moderate,PM2.5
+Kolkata,2020-05-18,36,Good,"O3, PM10"
+Visakhapatnam,2022-02-08,150,Moderate,PM10
+Guwahati,2022-01-21,69,Satisfactory,PM2.5
+Pune,2019-10-27,82,Satisfactory,SO2
+Kolkata,2017-08-13,88,Satisfactory,PM10
+Patna,2022-11-06,274,Poor,PM2.5
+Agra,2019-08-24,130,Moderate,PM2.5
+Lucknow,2016-02-10,366,Very Poor,PM2.5
+Kolkata,2019-12-21,258,Poor,PM2.5
+Delhi,2016-11-26,253,Poor,"PM10, PM2.5"
+Visakhapatnam,2017-09-27,91,Satisfactory,PM2.5
+Kanpur,2020-12-06,393,Very Poor,PM2.5
+Pune,2017-02-23,102,Moderate,PM2.5
+Agra,2017-05-21,172,Moderate,PM2.5
+Mumbai,2019-08-07,54,Satisfactory,"CO, OZONE, PM10"
+Visakhapatnam,2016-11-16,132,Moderate,PM2.5
+Kolkata,2023-08-19,34,Good,"O3, PM10"
+Bengaluru,2017-06-25,51,Satisfactory,"CO, PM2.5"
+Bengaluru,2019-05-29,97,Satisfactory,OZONE
+Kanpur,2022-01-30,129,Moderate,"PM10, PM2.5"
+Chennai,2018-07-22,92,Satisfactory,PM2.5
+Agra,2016-07-14,181,Moderate,PM2.5
+Lucknow,2022-10-05,42,Good,"CO, O3, PM2.5"
+Ahmedabad,2018-04-17,88,Satisfactory,OZONE
+Hyderabad,2017-02-28,219,Poor,"O3, PM2.5"
+Visakhapatnam,2020-03-20,77,Satisfactory,PM10
+Ahmedabad,2023-03-06,170,Moderate,"NO2, PM2.5"
+Visakhapatnam,2022-10-30,125,Moderate,PM2.5
+Patna,2017-02-05,399,Very Poor,PM2.5
+Chennai,2015-10-16,72,Satisfactory,"O3, PM2.5"
+Ahmedabad,2020-04-22,91,Satisfactory,PM10
+Patna,2020-08-04,64,Satisfactory,"NO2, PM10, PM2.5"
+Guwahati,2020-02-16,369,Very Poor,PM2.5
+Hyderabad,2023-11-10,97,Satisfactory,"PM10, PM2.5"
+Pune,2019-12-03,85,Satisfactory,SO2
+Lucknow,2021-08-09,52,Satisfactory,"CO, PM10, PM2.5"
+Chennai,2022-09-23,66,Satisfactory,"CO, PM10, PM2.5"
+Lucknow,2021-10-16,212,Poor,"PM10, PM2.5"
+Chennai,2018-03-04,123,Moderate,PM2.5
+Hyderabad,2016-03-02,91,Satisfactory,"PM10, PM2.5"
+Howrah,2023-01-24,311,Very Poor,PM2.5
+Pune,2020-11-11,78,Satisfactory,PM2.5
+Lucknow,2017-01-02,325,Very Poor,PM2.5
+Bengaluru,2016-01-02,92,Satisfactory,"NO2, PM2.5"
+Lucknow,2017-03-05,206,Poor,PM2.5
+Lucknow,2017-08-24,89,Satisfactory,"NO2, PM2.5"
+Delhi,2023-03-08,213,Poor,PM2.5
+Howrah,2020-01-15,340,Very Poor,"PM10, PM2.5"
+Chennai,2023-06-07,72,Satisfactory,"NO2, PM10"
+Kanpur,2022-09-19,69,Satisfactory,"PM10, PM2.5"
+Patna,2018-12-18,391,Very Poor,PM2.5
+Agra,2021-03-26,81,Satisfactory,PM2.5
+Pune,2023-05-28,92,Satisfactory,"CO, NO2"
+Bengaluru,2023-05-03,60,Satisfactory,"NO2, PM10"
+Howrah,2023-09-09,40,Good,PM10
+Bengaluru,2022-07-27,73,Satisfactory,"CO, PM10"
+Nashik,2022-10-03,45,Good,O3
+Delhi,2020-05-11,116,Moderate,O3
+Delhi,2019-03-11,187,Moderate,"PM10, PM2.5"
+Delhi,2022-09-04,115,Moderate,"O3, PM10, PM2.5"
+Lucknow,2016-12-31,354,Very Poor,PM2.5
+Visakhapatnam,2016-12-22,119,Moderate,PM2.5
+Lucknow,2018-06-10,155,Moderate,PM2.5
+Kolkata,2018-07-02,56,Satisfactory,PM10
+Pune,2018-11-29,195,Moderate,PM2.5
+Howrah,2023-10-02,40,Good,PM10
+Nashik,2021-08-12,33,Good,PM2.5
+Kolkata,2020-06-18,40,Good,"CO, NO2, PM10"
+Mumbai,2018-06-16,70,Satisfactory,CO
+Howrah,2021-03-12,94,Satisfactory,PM10
+Kolkata,2018-10-09,108,Moderate,PM2.5
+Patna,2022-03-21,225,Poor,PM2.5
+Chennai,2019-01-14,122,Moderate,PM2.5
+Patna,2018-03-23,293,Poor,PM2.5
+Chennai,2020-05-13,50,Good,"CO, O3, PM2.5"
+Hyderabad,2023-01-26,85,Satisfactory,PM10
+Hyderabad,2016-05-08,71,Satisfactory,PM2.5
+Patna,2021-01-11,172,Moderate,"PM10, PM2.5"
+Bengaluru,2016-03-17,148,Moderate,"PM10, PM2.5"
+Lucknow,2020-05-01,88,Satisfactory,PM2.5
+Kanpur,2023-10-07,155,Moderate,PM2.5
+Delhi,2016-12-29,402,Severe,"PM10, PM2.5"
+Patna,2020-02-09,192,Moderate,"PM10, PM2.5"
+Chennai,2019-09-06,58,Satisfactory,"CO, OZONE, PM2.5"
+Bengaluru,2021-11-27,82,Satisfactory,"PM10, PM2.5"
+Visakhapatnam,2022-07-13,68,Satisfactory,PM10
+Hyderabad,2017-02-24,196,Moderate,"PM10, PM2.5"
+Mumbai,2016-01-19,130,Moderate,PM2.5
+Howrah,2021-08-05,65,Satisfactory,"CO, PM10, PM2.5"
+Chennai,2019-11-29,45,Good,"OZONE, PM10, PM2.5"
+Patna,2018-05-21,225,Poor,PM2.5
+Lucknow,2018-10-10,228,Poor,PM2.5
+Delhi,2023-12-20,285,Poor,PM2.5
+Bengaluru,2020-10-14,43,Good,"PM10, PM2.5"
+Hyderabad,2023-07-14,58,Satisfactory,PM10
+Bengaluru,2015-12-07,68,Satisfactory,PM2.5
+Delhi,2023-12-11,317,Very Poor,PM2.5
+Howrah,2018-09-30,132,Moderate,"PM10, PM2.5"
+Hyderabad,2018-09-16,98,Satisfactory,"PM10, PM2.5"
+Mumbai,2021-09-26,64,Satisfactory,"CO, O3, PM10"

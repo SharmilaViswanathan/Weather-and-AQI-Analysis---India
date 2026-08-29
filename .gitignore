@@ -1,0 +1,26 @@
+# Ignore all data files
+data/*
+
+# Allow the data folders to be traversed
+!data/raw/
+!data/processed/
+
+# Allow only sample CSV files
+!data/raw/*_sample.csv
+!data/processed/*_sample.csv
+
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+
+# VS Code
+.vscode/
+
+
+# OS
+Thumbs.db
+.DS_Store
