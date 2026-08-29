@@ -1,19 +1,19 @@
-# Ignore all CSV files
+#Ignore all CSV files
 *.csv
 
-# Allow sample CSV files
+#Allow sample CSV files
 !data/raw/*_sample.csv
 !data/processed/*_sample.csv
 
-# Python
+#Python
 __pycache__/
 *.pyc
 .venv/
 venv/
 
-# VS Code
+#VS Code
 .vscode/
 
-# OS
+#OS
 Thumbs.db
 .DS_Store
