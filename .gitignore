@@ -1,13 +1,7 @@
-@"
-# Ignore all datasets
-data/
+# Ignore all CSV files
+*.csv
 
-# Allow data folders to exist
-!data/
-!data/raw/
-!data/processed/
-
-# Allow sample datasets
+# Allow sample CSV files
 !data/raw/*_sample.csv
 !data/processed/*_sample.csv
 
@@ -23,4 +17,3 @@ venv/
 # OS
 Thumbs.db
 .DS_Store
-"@ | Set-Content .gitignore
