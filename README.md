@@ -1,7 +1,6 @@
 # Weather & AQI Analysis - India
 
-This project follows an end to end Data Analytics workflow using Python, MySQL, Power BI
-This project analyzes the relationship between weather condition and air quality across 16 Major Indian cities from 2015 to 2023
+This project follows an end to end Data Analytics workflow using Python, MySQL, Power BI. This project analyzes the relationship between weather condition and air quality across 16 Major Indian cities from 2015 to 2023
 
 ## Power BI Dashboard
 
